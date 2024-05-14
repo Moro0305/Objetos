@@ -1,0 +1,13 @@
+# Blender 4.1.1 MTL File: 'Cuchara.blend'
+# www.blender.org
+
+newmtl Cuchara
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texturas/textures/coast_sand_02_diff_4k.jpg
+map_Ns Texturas/textures/coast_sand_02_rough_4k.exr
+map_Bump -bm 1.000000 Texturas/textures/coast_sand_02_nor_gl_4k.exr
