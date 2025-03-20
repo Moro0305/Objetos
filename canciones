@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "La feria de Cepillin",
+    "artista": "Cepillin" 
+  },
+  {
+    "id": 2,
+    "name": "Raton Vaquero",
+    "artista": "Cri Cri"
+  },
+  {
+    "id": 3,
+    "name": "Hysteria",
+    "artista": "Muse"
+  },
+  {
+    "id": 4,
+    "name": "BloodyStrip",
+    "artista": "JOJOS"
+  },
+  {
+    "id": 5,
+    "name": "Lost on you",
+    "artista": "LP"
+  },
+  {
+    "id": 6,
+    "name": "We are the champions",
+    "artista": "Queen"
+  },
+  {
+    "id": 7,
+    "name": "Cruel Angel Thesis",
+    "artista": "Yoko Takahashi"
+  }
+]
